@@ -1,3 +1,8 @@
+/*
+    Projeto & Otimização de Algoritmos 2022/1   
+    Adriano Leal
+*/
+
 public class MergeSort {
 
     public static void main(String args[]) {
